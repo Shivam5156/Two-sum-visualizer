@@ -37,8 +37,8 @@ https://your-demo-link.com/
 
 ## 🛠 Tech Stack
 
-* ⚛️ React.js *(if used)*
-* 🎨 Tailwind CSS
+* ⚛️ React.js 
+* 🎨 CSS
 * 💡 JavaScript
 
 ## 📊 Time & Space Complexity
