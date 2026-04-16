@@ -65,7 +65,7 @@ This allows finding the solution in a single pass.
 ## 🧑‍💻 Run Locally
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/Shivam5156/Two-sum-visualizer
 cd repo-name
 npm install
 npm run dev
